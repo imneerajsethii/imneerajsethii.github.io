@@ -133,5 +133,5 @@ Mangalayatan University, Karnal
 
 ## Contact
 - Email: imneerajsethi@gmail.com  
-- GitHub: https://github.com/TheNeerajSethi  
+- GitHub: https://github.com/imneerajsethii
 - LinkedIn: https://www.linkedin.com/in/imneerajsethi
