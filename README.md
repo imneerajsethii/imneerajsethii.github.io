@@ -106,8 +106,8 @@ class NeerajSethi extends Developer {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=imneerajsethi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d26a&icon_color=58a6ff&text_color=c9d1d9&ring_color=00d26a" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imneerajsethi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d26a&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=imneerajsethii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d26a&icon_color=58a6ff&text_color=c9d1d9&ring_color=00d26a" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imneerajsethii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d26a&text_color=c9d1d9" />
 
 <br/>
 
