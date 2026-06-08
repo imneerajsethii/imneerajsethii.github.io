@@ -105,8 +105,13 @@ class NeerajSethi extends Developer {
 ## `// 03 — GitHub Stats`
 
 <div align="center">
-  <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imneerajsethii&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d26a&fire=ffa657&currStreakLabel=00d26a&sideLabels=c9d1d9&dates=8b949e)
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=imneerajsethi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d26a&icon_color=58a6ff&text_color=c9d1d9&ring_color=00d26a" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imneerajsethi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d26a&text_color=c9d1d9" />
+
+<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imneerajsethi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d26a&fire=ffa657&currStreakLabel=00d26a&sideLabels=c9d1d9&dates=8b949e)
 
 </div>
 
