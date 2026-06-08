@@ -111,7 +111,7 @@ class NeerajSethi extends Developer {
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imneerajsethi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d26a&fire=ffa657&currStreakLabel=00d26a&sideLabels=c9d1d9&dates=8b949e)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imneerajsethii&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d26a&fire=ffa657&currStreakLabel=00d26a&sideLabels=c9d1d9&dates=8b949e)
 
 </div>
 
